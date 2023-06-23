@@ -1,6 +1,6 @@
-### Public Stats
+### Hi
 
-[![NioTheFirst's GitHub stats](https://github-readme-stats.vercel.app/api?username=NioTheFirst&count_private=true)](https://github.com/NioTheFirst/github-readme-stats)
+<!-- [![NioTheFirst's GitHub stats](https://github-readme-stats.vercel.app/api?username=NioTheFirst&count_private=true)](https://github.com/NioTheFirst/github-readme-stats) -->
 
 Currently working on a smart contract project
 <!--
