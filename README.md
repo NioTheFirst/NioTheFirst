@@ -1,6 +1,6 @@
 ### Make it look nicer
 
-[![NioTheFirst's GitHub stats](https://github-readme-stats.vercel.app/api?username=NioTheFirst)](https://github.com/anuraghazra/github-readme-stats)
+[![NioTheFirst's GitHub stats](https://github-readme-stats.vercel.app/api?prj_nRWyAzVqvk11r5BVi5VuYHCCzbwc)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **NioTheFirst/NioTheFirst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
